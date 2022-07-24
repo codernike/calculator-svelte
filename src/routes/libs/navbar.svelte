@@ -12,7 +12,7 @@
                     <a class="nav-link" href='/'>Home <span class="visually-hidden">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href='/'>Games</a>
+                    <a class="nav-link" href='/'>total</a>
                 </li>
             </ul>
             <form class="d-flex my-2 my-lg-0">
